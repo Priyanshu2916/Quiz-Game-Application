@@ -30,7 +30,7 @@ QuizGame/
 3. Run index.html in a browser
 
 ## Project link
-
+ https://priyanshu2916.github.io/Quiz-Game-Application/
 
 ## 📸 Output
 Users answer quiz questions and receive a final score after completion.
